@@ -1,0 +1,19 @@
+{
+    "name": "susonwaiba/php-object-manager-sample-from-scratch",
+    "description": "Just for fun",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suson Waiba",
+            "email": "susonwaiba@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
